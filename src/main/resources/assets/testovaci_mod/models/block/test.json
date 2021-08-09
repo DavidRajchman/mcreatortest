@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "testovaci_mod:blocks/dark",
+    "up": "testovaci_mod:blocks/dark",
+    "north": "testovaci_mod:blocks/dark",
+    "east": "testovaci_mod:blocks/dark",
+    "south": "testovaci_mod:blocks/dark",
+    "west": "testovaci_mod:blocks/dark",
+    "particle": "testovaci_mod:blocks/dark"
+  }
+}
